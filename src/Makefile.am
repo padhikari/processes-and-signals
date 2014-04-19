@@ -1,1 +1,1 @@
-SUBDIRS = system fork 
+SUBDIRS = system fork wait
