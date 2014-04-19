@@ -1,3 +1,0 @@
-Starting new processes with system.
-
-int system(const char *string);
