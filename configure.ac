@@ -6,5 +6,7 @@ AC_CONFIG_HEADERS([config.h])
 AC_CONFIG_FILES([
  Makefile
  src/Makefile
+ src/system/Makefile
+ src/fork/Makefile
 ])
 AC_OUTPUT
