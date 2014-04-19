@@ -1,5 +1,5 @@
 dnl Process this file with autoconf to produce a configure script.
-AC_INIT([processes_signals], [0.0.1] , [pabitraadhikari@gmail.com])
+AC_INIT([processes], [0.0.2], [pabitraadhikari@gmail.com])
 AM_INIT_AUTOMAKE([foreign -Wall -Werror])
 AC_PROG_CC
 AC_CONFIG_HEADERS([config.h])
