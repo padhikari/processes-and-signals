@@ -9,5 +9,6 @@ AC_CONFIG_FILES([
  src/system/Makefile
  src/fork/Makefile
  src/wait/Makefile
+ src/zombie/Makefile
 ])
 AC_OUTPUT
