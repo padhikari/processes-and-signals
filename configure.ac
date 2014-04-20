@@ -10,5 +10,6 @@ AC_CONFIG_FILES([
  src/fork/Makefile
  src/wait/Makefile
  src/zombie/Makefile
+ src/redirection/Makefile
 ])
 AC_OUTPUT

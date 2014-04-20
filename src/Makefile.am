@@ -1,1 +1,1 @@
-SUBDIRS = system fork wait zombie
+SUBDIRS = system fork wait zombie redirection
