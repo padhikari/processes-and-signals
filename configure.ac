@@ -11,5 +11,6 @@ AC_CONFIG_FILES([
  src/wait/Makefile
  src/zombie/Makefile
  src/redirection/Makefile
+ src/signals/Makefile
 ])
 AC_OUTPUT
